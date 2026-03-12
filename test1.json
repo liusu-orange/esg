@@ -1,0 +1,1102 @@
+{
+    "3M CO": [
+        "https://www.sec.gov/Archives/edgar/data/66740/000155837018000535/mmm-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000155837019000470/mmm-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000155837020000581/mmm-20191231x10k62bf35.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000155837021000737/mmm-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000006674022000010/mmm-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000006674023000014/mmm-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000006674024000016/mmm-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/66740/000006674025000006/mmm-20241231.htm"
+    ],
+    "ABBOTT LABORATORIES": [
+        "https://www.sec.gov/Archives/edgar/data/1800/000104746918000856/a2234264z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000104746919000624/a2237733z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000110465920023904/abt-20191231x10k59d41b.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000110465921025751/abt-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000110465922025141/abt-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000162828023004026/abt-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000162828024005348/abt-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1800/000162828025007110/abt-20241231.htm"
+    ],
+    "ADOBE INC.": [
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634318000015/adbe10kfy17.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634319000019/adbe10kfy18.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634320000013/adbe10kfy19.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634321000004/adbe-20201127.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634322000032/adbe-20211203.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634323000007/adbe-20221202.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/adbe-20231201.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634325000004/adbe-20241129.htm"
+    ],
+    "ADVANCED MICRO DEVICES INC": [
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/amd-12302017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/amd-12292018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/amdform10-kfy2019.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/amd-20201226.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/amd-20211225.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/amd-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/amd-20231230.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/amd-20241228.htm"
+    ],
+    "AMAZON COM INC": [
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/amzn-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/amzn-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/amzn-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/amzn-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/amzn-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/amzn-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm"
+    ],
+    "AMERICAN EXPRESS CO": [
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496218000032/axp201710k.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496219000018/axp201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496220000030/axp-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496221000013/axp-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496222000008/axp-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496223000006/axp-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496224000013/axp-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4962/000000496225000016/axp-20241231.htm"
+    ],
+    "AMERICAN TOWER CORP /MA/": [
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350718000006/amt1231201710k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350719000012/amt1231201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350720000028/amt1231201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350721000026/amt-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350722000017/amt-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350723000023/amt-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350724000011/amt-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1053507/000105350725000025/amt-20241231.htm"
+    ],
+    "ANALOG DEVICES INC": [
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628117000144/adi-10282017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628118000126/adi-1132018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628119000144/adi-20191102.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628120000156/adi-20201031.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628121000294/adi-20211030.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628122000250/adi-20221029.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628123000203/adi-20231028.htm",
+        "https://www.sec.gov/Archives/edgar/data/6281/000000628124000204/adi-20241102.htm"
+    ],
+    "AUTOMATIC DATA PROCESSING INC": [
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/q4fy1710k.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/q4fy1810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/q4fy1910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/adp-20200630.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/adp-20210630.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/adp-20220630.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/adp-20230630.htm",
+        "https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/adp-20240630.htm"
+    ],
+    "AUTOZONE INC": [
+        "https://www.sec.gov/Archives/edgar/data/866787/000119312517319357/d447746d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000119312518306452/d597971d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000119312519276201/d771460d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000155837020011748/azo-20200829x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000155837021013446/azo-20210828x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000155837022015239/azo-20220827x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000155837023016668/azo-20230826x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/866787/000155837024013758/azo-20240831x10k.htm"
+    ],
+    "AbbVie Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115218000014/abbv-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115219000008/abbv-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115220000007/abbv-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000008/abbv-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000007/abbv-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/abbv-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm"
+    ],
+    "Accenture plc": [
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737317000430/acn831201710k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737318000318/acn831201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737319000339/acn831201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737320000376/acn-20200831.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737321000229/acn-20210831.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737322000295/acn-20220831.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737323000324/acn-20230831.htm",
+        "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000278/acn-20240831.htm"
+    ],
+    "Apple Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019317000070/a10-k20179302017.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019319000119/a10-k20199282019.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+    ],
+    "Arista Networks, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653218000018/anet20171231-10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653219000027/anet20181231-10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653220000024/anet20191231-10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653221000049/anet-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653222000026/anet-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653223000016/anet-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/anet-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm"
+    ],
+    "Arthur J. Gallagher & Co.": [
+        "https://www.sec.gov/Archives/edgar/data/354190/000119312518038261/d486069d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000119312519032304/d618065d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000119312520028191/d879025d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000156459021004555/ajg-10k_20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000156459022005714/ajg-10k_20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000095017023002456/ajg-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000095017024013370/ajg-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/354190/000095017025021775/ajg-20241231.htm"
+    ],
+    "Autodesk, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939718000011/adsk-0131201810xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939719000016/adsk-0131201910xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939720000013/adsk-0131202010xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939721000014/adsk-20210131.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939722000019/adsk-20220131.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939723000036/adsk-20230131.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939724000090/adsk-20240131.htm",
+        "https://www.sec.gov/Archives/edgar/data/769397/000076939725000019/adsk-20250131.htm"
+    ],
+    "BANK OF AMERICA CORP /DE/": [
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085818000009/bac-1231201710xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085819000012/bac-1231201810xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085820000011/bac-1231201910xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085821000023/bac-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085822000062/bac-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085823000092/bac-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085824000122/bac-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/70858/000007085825000139/bac-20241231.htm"
+    ],
+    "BERKSHIRE HATHAWAY INC": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312518057033/d437858d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312519048926/d678758d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000156459020005874/brka-10k_20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000156459021009611/brka-10k_20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000156459022007322/brka-10k_20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095017023004451/brka-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095017024019719/brka-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095017025025210/brka-20241231.htm"
+    ],
+    "BRISTOL MYERS SQUIBB CO": [
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427218000055/bmy-20171231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427219000047/bmy-20181231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427220000082/bmy-20191231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427221000066/bmy-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427222000051/bmy-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427223000046/bmy-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427224000044/bmy-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/bmy-20241231.htm"
+    ],
+    "Bank of New York Mellon Corp": [
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077718000069/form10-k_4q17.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077719000050/form10-k_4q18.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077720000044/form10-k4q19.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077721000037/bk-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077722000043/bk-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077723000033/bk-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077724000051/bk-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1390777/000139077725000046/bk-20241231.htm"
+    ],
+    "Booking Holdings Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553118000015/pcln-20171231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553119000009/bkng1231201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553120000011/bkng1231201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553121000019/bkng-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000008/bkng-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000016/bkng-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000014/bkng-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/bkng-20241231.htm"
+    ],
+    "CADENCE DESIGN SYSTEMS INC": [
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367219000008/cdns1229201810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367220000007/cdns1228201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367221000009/cdns-20210102.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367221000021/cdns-20210102.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367222000012/cdns-20220101.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367223000011/cdns-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367224000034/cdns-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/813672/000081367225000024/cdns-20241231.htm"
+    ],
+    "CATERPILLAR INC": [
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823018000042/cat_10-kx12312017.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823019000034/cat_10-kx12312018.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/cat10-k12312019.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823021000063/cat-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823022000050/cat-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823023000011/cat-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823024000009/cat-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/18230/000001823025000008/cat-20241231.htm"
+    ],
+    "CHEVRON CORP": [
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341018000010/cvx12312017-10kdoc.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341019000008/cvx12312018-10kdoc.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341020000010/cvx12312019-10kdoc.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341021000009/cvx-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341022000019/cvx-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341023000009/cvx-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341024000013/cvx-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/93410/000009341025000009/cvx-20241231.htm"
+    ],
+    "CHIPOTLE MEXICAN GRILL INC": [
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809018000018/cmg-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809019000007/cmg-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809020000010/cmg-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809021000010/cmg-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809022000011/cmg-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809023000010/cmg-20221231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000156276224000023/cmg-20231231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000014/cmg-20241231.htm"
+    ],
+    "CINTAS CORP": [
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325418000015/ctas531201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325419000021/ctas531201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325420000025/ctas-20200531.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325421000021/ctas-20210531.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325422000019/ctas-20220531.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325423000025/ctas-20230531.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325424000036/ctas-20240531.htm",
+        "https://www.sec.gov/Archives/edgar/data/723254/000072325425000017/ctas-20250531.htm"
+    ],
+    "CISCO SYSTEMS, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887717000016/csco-2017729x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887718000011/csco-2018728x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887719000012/csco-2019727x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887720000010/csco-2020725x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887721000013/csco-20210731.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887722000013/csco-20220730.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887723000023/csco-20230729.htm",
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887724000017/csco-20240727.htm"
+    ],
+    "COCA COLA CO": [
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/a2017123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/a2018123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/a2019123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ko-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ko-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/ko-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/ko-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm"
+    ],
+    "COLGATE PALMOLIVE CO": [
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166518000006/cl-12312017x10ka.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166519000003/cl-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166520000004/cl-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166521000007/cl-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166522000003/cl-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166523000007/cl-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166524000003/cl-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/21665/000002166525000008/cl-20241231.htm"
+    ],
+    "CONOCOPHILLIPS": [
+        "https://www.sec.gov/Archives/edgar/data/1163165/000119312518049729/d534096d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000119312519043841/d636257d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000119312520039954/d875559d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000156276221000027/cop10k2020.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000156276222000031/cop10k2021.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000116316523000006/cop-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000116316524000010/cop-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1163165/000116316525000012/cop-20241231.htm"
+    ],
+    "Chubb Ltd": [
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615918000002/cb-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615919000005/cb-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615920000003/cb-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615921000003/cb-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615922000005/cb-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615923000007/cb-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm"
+    ],
+    "DANAHER CORP /DE/": [
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361618000038/dhr-20171231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361619000035/dhr-20181231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361620000041/dhr-20191231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361621000045/dhr-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361622000061/dhr-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361623000087/dhr-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361624000052/dhr-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/313616/000031361625000043/dhr-20241231.htm"
+    ],
+    "DEERE & CO": [
+        "https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/a2233505z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/a2236950z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/de-20191103x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/de-20201101x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/de-20211031x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/de-20221030x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/de-20231029x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/de-20241027x10k.htm"
+    ],
+    "Duke Energy CORP": [
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616018000036/duk-20171231x10ka.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616019000057/duk-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616020000034/duk-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616021000063/duk-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616022000072/duk-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616023000073/duk-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000037/duk-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000072/duk-20241231.htm"
+    ],
+    "ECOLAB INC.": [
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837018000999/ecl-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837019001379/ecl-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837020001788/ecl-20191231x10k145b24.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837021001916/ecl-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837022002059/ecl-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837023001969/ecl-20221231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837024001581/ecl-20231231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/31462/000155837025001263/ecl-20241231x10k.htm"
+    ],
+    "ELI LILLY & Co": [
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/lly-20171231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/lly-20181231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/lly-20191231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/lly-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/lly-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm"
+    ],
+    "EOG RESOURCES INC": [
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118918000012/a2017123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118919000009/a2018123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118920000010/a2019123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118921000017/eog-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118922000017/eog-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118923000015/eog-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118924000011/eog-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/821189/000082118925000011/eog-20241231.htm"
+    ],
+    "EXXON MOBIL CORP": [
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408818000015/xom10k2017.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408819000010/xom10k2018.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408820000016/xom10k2019.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408821000012/xom-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408822000011/xom-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408823000020/xom-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408824000018/xom-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/34088/000003408825000010/xom-20241231.htm"
+    ],
+    "Eaton Corp plc": [
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118218000074/etn12312017form10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118219000045/etn12312018form10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118220000050/etn12312019form10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118221000022/etn-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+    ],
+    "Elevance Health, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603918000003/antm-2017123110kq42017.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603919000004/antm-2018123110kq42018.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603920000003/antm-2019123110kq42019.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603921000012/antm-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603922000009/antm-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603923000007/elv-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603924000015/elv-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1156039/000115603925000010/elv-20241231.htm"
+    ],
+    "Energy Transfer LP": [
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618719000011/et12-31x201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618720000011/et12-31x201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618721000034/et-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618722000020/et-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618723000014/et-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618724000024/et-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618725000018/et-20241231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1276187/000127618725000037/et-20241231.htm"
+    ],
+    "FISERV INC": [
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/fisv1231201710-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/fisv1231201810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/fisv1231201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/fisv-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/fisv-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/fisv-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/fi-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/fi-20241231.htm"
+    ],
+    "GENERAL DYNAMICS CORP": [
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053318000008/gd-2017123110k.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053319000010/gd-2018123110k.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053320000015/gd-2019123110k.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053321000010/gd-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053322000007/gd-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053323000014/gd-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053324000007/gd-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/40533/000004053325000008/gd-20241231.htm"
+    ],
+    "HCA Healthcare, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/860730/000119312518056057/d490041d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000119312519047078/d676301d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000119312520043524/d864235d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000119312521048994/d37951d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000119312522046707/d32297d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000095017023003234/hca-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000095017024016524/hca-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/860730/000095017025020134/hca-20241231.htm"
+    ],
+    "HOME DEPOT, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495018000019/hd_10k01282018.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495019000010/hd_10kx02032019.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/hd10k02022020.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495021000089/hd-20210131.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495022000070/hd-20220130.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495023000059/hd-20230129.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495024000062/hd-20240128.htm",
+        "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm"
+    ],
+    "Howmet Aerospace Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428118000042/form10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428119000031/form10k_4q18.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428120000038/form10k4q19.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428121000049/arnc-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428122000004/hwm-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428123000004/hwm-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428124000007/hwm-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/4281/000000428125000011/hwm-20241231.htm"
+    ],
+    "ILLINOIS TOOL WORKS INC": [
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982618000017/itw-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982619000021/itw-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982620000020/itw-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982621000007/itw-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982622000006/itw-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982623000008/itw-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982624000008/itw-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/49826/000004982625000007/itw-20241231.htm"
+    ],
+    "INTERNATIONAL BUSINESS MACHINES CORP": [
+        "https://www.sec.gov/Archives/edgar/data/51143/000104746918001117/a2233835z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000104746919000712/a2237254z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000155837020001334/ibm-20191231x10k2af531.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000155837021001489/ibm-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000155837022001584/ibm-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000155837023002376/ibm-20221231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000005114324000012/ibm-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231.htm"
+    ],
+    "INTUITIVE SURGICAL INC": [
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526718000013/isrg-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526719000012/isrg-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526720000032/isrg-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526721000028/isrg-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526722000014/isrg-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526723000019/isrg-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526724000021/isrg-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1035267/000103526725000017/isrg-20241231.htm"
+    ],
+    "ISHARES GOLD TRUST": [
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774918003506/iau20171231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774919003631/iau20181231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774920003768/iau20191231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774921004602/iau20201231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774922004899/iau20211231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774923004329/iau20221231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774924004670/iau20231231c_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1278680/000143774925004257/iau20241231_10k.htm"
+    ],
+    "Interactive Brokers Group, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1381197/000114036119004097/bp15115x1_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119720000006/ibkr-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119721000008/ibkr-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119722000010/ibkr-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119723000014/ibkr-20221231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000083/ibkr-20231231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000036/ibkr-20241231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000039/ibkr-20241231x10ka.htm"
+    ],
+    "JOHNSON & JOHNSON": [
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/form10-k20171231.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/form10-k20181230.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/form10-k20191229.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/jnj-20210103.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/jnj-20230101.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/jnj-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/jnj-20241229.htm"
+    ],
+    "JPMORGAN CHASE & CO": [
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961718000057/corp10k2017.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961719000054/corp10k2018.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961720000257/corp10k2019.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961721000236/jpm-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961722000272/jpm-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961723000231/jpm-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/19617/000001961725000270/jpm-20241231.htm"
+    ],
+    "KINDER MORGAN, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630718000010/kmi-2017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630719000033/kmi-2018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630720000022/kmi-2019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630721000022/kmi-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630722000018/kmi-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630723000023/kmi-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630724000011/kmi-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1506307/000150630725000008/kmi-20241231.htm"
+    ],
+    "KKR & Co. Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491218000005/kkr-2017123110xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491219000006/kkr-2018123110xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491220000006/kkr-2019123110xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491221000008/kkr-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491222000004/kkr-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000005/kkr-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000005/kkr-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000015/kkr-20241231.htm"
+    ],
+    "KLA CORP": [
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920117000034/klac10k2017.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920118000045/klac10k2018.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920119000031/klac10k2019.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920120000047/klac-20200630.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920121000029/klac-20210630.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920122000023/klac-20220630.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920123000031/klac-20230630.htm",
+        "https://www.sec.gov/Archives/edgar/data/319201/000031920124000021/klac-20240630.htm"
+    ],
+    "LAM RESEARCH CORP": [
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754917000100/lrcx_10kx2017xdocument.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754918000115/lrcx_10kx2018xdocument.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754919000124/lrcx10k2019document.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754920000138/lrcx10k2020document.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754921000136/lrcx-20210627.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754922000107/lrcx-20220626.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754923000102/lrcx-20230625.htm",
+        "https://www.sec.gov/Archives/edgar/data/707549/000070754924000106/lrcx-20240630.htm"
+    ],
+    "LOCKHEED MARTIN CORP": [
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646818000013/lmtq4201710ka.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646819000009/lmtq4201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646820000016/lmtq4201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646821000013/lmt-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646822000008/lmt-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646823000009/lmt-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646824000010/lmt-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/936468/000093646825000009/lmt-20241231.htm"
+    ],
+    "MARRIOTT INTERNATIONAL INC /MD/": [
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828019002337/mar-q42018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828020002376/mar-q42019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828021002433/mar-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828021006440/mar-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828022002666/mar-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828023003485/mar-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828024004372/mar-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1048286/000162828025004818/mar-20241231.htm"
+    ],
+    "MARSH & MCLENNAN COMPANIES, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270918000007/mmc1231201710k.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270919000010/mmc1231201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270920000010/mmc1231201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270921000008/mmc-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270922000009/mmc-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270923000014/mmc-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270924000016/mmc-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/62709/000006270925000015/mmc-20241231.htm"
+    ],
+    "MCKESSON CORP": [
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765318000010/mck_10kx3312018.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765319000009/mck_10kx3312019.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765320000033/mck10k3312020.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765321000039/mck-20210331.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765322000051/mck-20220331.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765323000038/mck-20230331.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765324000035/mck-20240331.htm",
+        "https://www.sec.gov/Archives/edgar/data/927653/000092765325000036/mck-20250331.htm"
+    ],
+    "MICRON TECHNOLOGY INC": [
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312517000131/a2017q4.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312518000092/a2018q4.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312519000094/a2019q4.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312520000082/mu-20200903.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312521000065/mu-20210902.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312522000048/mu-20220901.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312523000054/mu-20230831.htm",
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312524000027/mu-20240829.htm"
+    ],
+    "MICROSTRATEGY Inc": [
+        "https://www.sec.gov/Archives/edgar/data/1050446/000156459018001547/mstr-10k_20171231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000156459019003468/mstr-10k_20181231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000156459020004679/mstr-10k_20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000156459021005783/mstr-10k_20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000156459022005287/mstr-10k_20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000156459023002012/mstr-10k_20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000095017024015847/mstr-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000095017025021814/mstr-20241231.htm"
+    ],
+    "MOODYS CORP /DE/": [
+        "https://www.sec.gov/Archives/edgar/data/1059556/000119312518058986/d540752d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000119312519048576/d679514d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000105955620000005/mco-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000105955621000010/mco-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000105955622000012/mco-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000105955623000016/mco-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000105955624000017/mco-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1059556/000105955625000025/mco-20241231.htm"
+    ],
+    "Mastercard Inc": [
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139118000009/ma12312017-10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139119000013/ma12312018-10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139120000032/ma12312019-10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139121000018/ma-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139122000023/ma-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139123000020/ma-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139124000022/ma-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1141391/000114139125000011/ma-20241231.htm"
+    ],
+    "Medtronic plc": [
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310318000024/mdt-2018427x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310319000028/mdt-2019426x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310320000021/mdt-20200424.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310321000027/mdt-20210430.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310322000023/mdt-20220429.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310323000040/mdt-20230428.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310324000072/mdt-20240426.htm",
+        "https://www.sec.gov/Archives/edgar/data/1613103/000161310325000091/mdt-20250425.htm"
+    ],
+    "Meta Platforms, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680118000009/fb-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680120000013/fb-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000014/fb-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/fb-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/meta-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/meta-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm"
+    ],
+    "Mondelez International, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1103982/000119312518037332/d466496d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398219000005/mdlz10k123118document.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398220000003/mdlz10k123119document1.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398221000004/mdlz-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398222000003/mdlz-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398223000006/mdlz-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000019/mdlz-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000030/mdlz-20241231.htm"
+    ],
+    "NETFLIX INC": [
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/form10k_q418.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528019000079/a10ka.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/form10kq419.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/nflx-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/nflx-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/nflx-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/nflx-20241231.htm"
+    ],
+    "NIKE, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018718000142/nke-5312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/nke-531201910k.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm",
+        "https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm"
+    ],
+    "NORTHROP GRUMMAN CORP /DE/": [
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342118000005/noc-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342119000007/noc-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342120000006/noc-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342121000006/noc-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342122000004/noc-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342123000006/noc-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342124000006/noc-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1133421/000113342125000006/noc-20241231.htm"
+    ],
+    "NVIDIA CORP": [
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581018000010/nvda-2018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000023/nvda-2019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000010/nvda-2020x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000010/nvda-20210131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm"
+    ],
+    "O REILLY AUTOMOTIVE INC": [
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817318000077/orly-20171231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817319000060/orly-20181231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817320000007/orly-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817321000012/orly-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817322000012/orly-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817323000011/orly-20221231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817324000009/orly-20231231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/898173/000089817325000008/orly-20241231x10k.htm"
+    ],
+    "ORACLE CORP": [
+        "https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/d568983d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/orcl-10k_20190531.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/orcl-10k_20200531.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/orcl-10k_20210531.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/orcl-10k_20220531.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/orcl-20230531.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm",
+        "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    ],
+    "PEPSICO INC": [
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747618000012/pepsico201710-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747619000017/pepsico201810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747620000015/pepsico201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747621000007/pep-20201226.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747622000010/pep-20211225.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747623000007/pep-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747624000008/pep-20231230.htm",
+        "https://www.sec.gov/Archives/edgar/data/77476/000007747625000007/pep-20241228.htm"
+    ],
+    "PFIZER INC": [
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800318000027/pfe-12312017x10kshell.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800319000015/pfe-12312018x10kshell.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800320000014/pfe-12312019x10kshell.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800321000038/pfe-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800322000027/pfe-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800323000024/pfe-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800324000039/pfe-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/78003/000007800325000054/pfe-20241231.htm"
+    ],
+    "PNC FINANCIAL SERVICES GROUP, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367618000032/pnc-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367619000015/pnc201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367620000042/pnc201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367621000025/pnc-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367622000019/pnc-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367623000020/pnc-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367624000028/pnc-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/713676/000071367625000027/pnc-20241231.htm"
+    ],
+    "PROGRESSIVE CORP/OH/": [
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066118000011/pgr-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066119000008/pgr-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066120000006/pgr-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066121000014/pgr-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066122000046/pgr-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066123000006/pgr-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm"
+    ],
+    "Palo Alto Networks Inc": [
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756717000027/panw-7312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756718000024/panw-7312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756719000032/panw-7312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756720000032/panw-20200731.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756721000029/panw-20210731.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756722000028/panw-20220731.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756723000024/panw-20230731.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756724000029/panw-20240731.htm"
+    ],
+    "Parker-Hannifin Corp": [
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633417000095/ph630201710-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633418000087/ph630201810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633419000096/ph630201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633420000099/ph630202010-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633421000187/ph-20210630.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633422000034/ph-20220630.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633423000042/ph-20230630.htm",
+        "https://www.sec.gov/Archives/edgar/data/76334/000007633424000044/ph-20240630.htm"
+    ],
+    "PayPal Holdings, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391718000029/pypl201710-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391719000043/pypl201810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391720000028/pypl201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391721000018/pypl-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391722000027/pypl-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391723000033/pypl-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000024/pypl-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000019/pypl-20241231.htm"
+    ],
+    "Prologis, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1045609/000156459018002228/pld-10k_20171231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000156459019002872/pld-10k_20181231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000156459020004096/pld-10k_20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000156459021005312/pld-10k_20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000156459022004436/pld-10k_20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000156459023001902/pld-10k_20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000095017024014539/pld-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1045609/000095017025021272/pld-20241231.htm"
+    ],
+    "QUALCOMM INC/DE": [
+        "https://www.sec.gov/Archives/edgar/data/804328/000123445217000190/qcom10-k2017.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000172894918000095/qcom10-k2018.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000172894919000072/qcom10-k2019.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000172894920000067/qcom-20200927.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000172894921000076/qcom-20210926.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000080432823000055/qcom-20230924.htm",
+        "https://www.sec.gov/Archives/edgar/data/804328/000080432824000075/qcom-20240929.htm"
+    ],
+    "REGENERON PHARMACEUTICALS, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/872589/000153217618000013/regn-123117x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000153217619000009/regn-123118x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000153217620000008/regn-123119x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000180422021000008/regn-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000180422022000007/regn-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000180422023000008/regn-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000180422024000009/regn-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/872589/000180422025000011/regn-20241231.htm"
+    ],
+    "REPUBLIC SERVICES, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039118000005/rsg-2017x1231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039119000008/rsg-2018x1231x10xk.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039120000016/rsg-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039121000014/rsg-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039122000007/rsg-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039123000008/rsg-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039124000142/rsg-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1060391/000106039125000091/rsg-20241231.htm"
+    ],
+    "ROPER TECHNOLOGIES INC": [
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283518000011/a201710-kdoc.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283519000010/a201810-kdoc.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283520000006/a201910-kdoc.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283521000011/rop-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283522000012/rop-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/rop-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283524000008/rop-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/882835/000088283525000008/rop-20241231.htm"
+    ],
+    "ROYAL CARIBBEAN CRUISES LTD": [
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488718000017/rcl-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488719000017/rcl-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488720000009/rcl-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488721000006/rcl-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488722000008/rcl-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488723000006/rcl-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488724000075/rcl-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/884887/000088488725000050/rcl-20241231.htm"
+    ],
+    "S&P Global Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404018000061/spgi-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404019000059/spgi-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404020000055/spgi-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404021000063/spgi-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404022000055/spgi-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404023000058/spgi-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404024000071/spgi-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/64040/000006404025000052/spgi-20241231.htm"
+    ],
+    "SHERWIN WILLIAMS CO": [
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/shw-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/shw-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/shw-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/shw-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/shw-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/shw-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/shw-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/shw-20241231.htm"
+    ],
+    "SIMON PROPERTY GROUP INC /DE/": [
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837018000981/spg-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837019000875/spg-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837020001135/spg-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837021001700/spg-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837022001845/spg-20211231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837023001840/spg-20221231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837024001532/spg-20231231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1063761/000155837025001271/spg-20241231x10k.htm"
+    ],
+    "SPDR GOLD TRUST": [
+        "https://www.sec.gov/Archives/edgar/data/1222333/000119312518335261/d635976d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000119312519299966/d789814d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000119312520301561/d74464d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000119312521340496/d121499d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000119312522291881/d760732d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000143774923032876/gld20230930_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000143774924036161/gld20240930_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1222333/000143774924037938/gld20240930_10ka.htm"
+    ],
+    "STRYKER CORP": [
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/syk10k123117.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/syk10k123118.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/syk10k12312019.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/syk-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/syk-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/syk-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/syk-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/syk-20241231.htm"
+    ],
+    "SYNOPSYS INC": [
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/snps10311710-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/snps10311810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/snps10311910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/snps10312010-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/snps-20211031.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/snps-20221031.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/snps-20231031.htm",
+        "https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/snps-20241031.htm"
+    ],
+    "Salesforce, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/crmq4fy1810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/crmq4fy1910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/crm-20200131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/crm-20210131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/crm-20220131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/crm-20230131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/crm-20240131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/crm-20250131.htm"
+    ],
+    "T-Mobile US, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369918000011/tmus12312017form10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369919000015/tmus12312018form10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369920000026/tmus-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369921000039/tmus-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369922000018/tmus-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369923000016/tmus-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000008/tmus-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000012/tmus-20241231.htm"
+    ],
+    "TEXAS INSTRUMENTS INC": [
+        "https://www.sec.gov/Archives/edgar/data/97476/000156459018002832/txn-10k_20171231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000156459019003839/txn-10k_20181231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000009747620000009/txn-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000009747621000006/txn-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000009747622000009/txn-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000009747623000007/txn-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/txn-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97476/000009747625000007/txn-20241231.htm"
+    ],
+    "THERMO FISHER SCIENTIFIC INC.": [
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774518000006/a201710k.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774519000007/a201810k.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774520000009/tmo-20191231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774521000011/tmo-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774522000011/tmo-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774523000008/tmo-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774524000007/tmo-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/97745/000009774525000010/tmo-20241231.htm"
+    ],
+    "TJX COMPANIES INC /DE/": [
+        "https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/d518812d10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/tjx-10kx20190202.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/tjx-20200201.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/tjx-20210130.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/tjx-20220129.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/tjx-20230128.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/tjx-20240203.htm",
+        "https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/tjx-20250201.htm"
+    ],
+    "TRAVELERS COMPANIES, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/86312/000104746918000812/a2234469z10-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631219000009/trv-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631220000011/trv-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631221000011/trv-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631222000013/trv-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631223000011/trv-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm"
+    ],
+    "Trane Technologies plc": [
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625818000063/ir-10kx12312017.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625819000073/ir-10kx12312018.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625820000064/ir-10kx12312019.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625821000027/tt-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625822000031/tt-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625823000058/tt-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625824000047/tt-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1466258/000146625825000039/tt-20241231.htm"
+    ],
+    "UNION PACIFIC CORP": [
+        "https://www.sec.gov/Archives/edgar/data/100885/000010088518000048/unp-20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000010088519000060/unp-20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000010088520000065/unp-20191231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000010088521000068/unp-20201231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000143774922002494/unp20211231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000143774923002959/unp20221231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000143774924003599/unp20231231_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/100885/000010088525000042/unp-20241231.htm"
+    ],
+    "UNITED PARCEL SERVICE INC": [
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072718000009/ups-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072719000006/ups-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072720000005/ups-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072721000013/ups-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072722000007/ups-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072723000006/ups-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072724000008/ups-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1090727/000109072725000019/ups-20241231.htm"
+    ],
+    "UNITEDHEALTH GROUP INC": [
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176618000005/unh2017123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176619000005/unh2018123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176620000006/unh2019123110-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176621000013/unh-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176622000008/unh-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176623000008/unh-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176624000081/unh-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm"
+    ],
+    "VERIZON COMMUNICATIONS INC": [
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271218000009/a201710-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271219000012/a2018q410-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271220000014/a2019q410-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271221000012/vz-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271222000008/vz-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271223000012/vz-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/732712/000073271225000006/vz-20241231.htm"
+    ],
+    "VERTEX PHARMACEUTICALS INC / MA": [
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532018000009/a201710k-main.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532019000006/a201810k-main.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532020000007/a201910k-main.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532021000006/vrtx-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532022000007/vrtx-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532023000007/vrtx-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532024000062/vrtx-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/875320/000087532025000053/vrtx-20241231.htm"
+    ],
+    "WELLS FARGO & COMPANY/MN": [
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297118000272/wfc-12312017x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297119000227/wfc-12312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297120000217/wfc-12312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297121000197/wfc-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297122000096/wfc-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297123000071/wfc-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297124000064/wfc-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231.htm"
+    ],
+    "WELLTOWER INC.": [
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670418000012/10-K.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670419000014/a201810-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670420000015/a201910-k.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670421000018/well-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670422000013/well-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670423000010/well-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670424000008/well-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/766704/000076670425000009/well-20241231.htm"
+    ],
+    "WILLIAMS COMPANIES, INC.": [
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726318000006/wmb_20171231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726319000007/wmb_20181231x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726320000005/wmb2019123110k.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726321000006/wmb-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726322000007/wmb-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726323000007/wmb-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726324000019/wmb-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/107263/000010726325000031/wmb-20241231.htm"
+    ],
+    "Workday, Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781118000009/wday-01312018x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781119000038/wday-01312019x10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781120000022/wday-20200131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781121000020/wday-20210131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781122000030/wday-20220131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781123000024/wday-20230131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000044/wday-20240131.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000056/wday-20250131.htm"
+    ],
+    "Zoetis Inc.": [
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528018000053/zoetis-20171231x10kye.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528019000041/zoetis-20181231x10kye.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528020000054/zoetis-20191231x10kye.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528021000098/zts-20201231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528022000078/zts-20211231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528023000074/zts-20221231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000143/zts-20231231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000102/zts-20241231.htm"
+    ]
+}
